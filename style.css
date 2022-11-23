@@ -1,0 +1,49 @@
+body
+{
+    background-color: rgb(159, 240, 9);
+}
+
+h1
+{
+    background-color: #ffffff;
+    color: rgb(38, 0, 255);
+}
+
+#score
+{
+    font-size: 20px;
+    margin-left: 5px;
+}
+
+#timer
+{
+    float: right;
+    font-size: 20px;
+    margin-right: 5px;
+}
+
+p
+{
+    font-size: 25px;
+    color: black;
+}
+
+#sketch_to_be_drawn
+{
+    color: red;
+    font-size: 25px;
+
+}
+
+h1
+{
+  font-family: 'Special Elite', fantasy;
+  color:rgb(38, 0, 255);
+  background-color: cornsilk;
+}
+
+#show_sketch
+{
+  float:right;
+}
+
